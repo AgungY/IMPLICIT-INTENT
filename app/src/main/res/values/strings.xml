@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Implicit</string>
+    <string name="no_hp">No. Hp</string>
+    <string name="browser">BROWSER</string>
+    <string name="camera">CAMERA</string>
+    <string name="contact">CONTACT</string>
+    <string name="dialpad">DIALPAD</string>
+    <string name="gallery">GALLERY</string>
+</resources>
